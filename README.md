@@ -37,6 +37,3 @@ Checkstyle is a linter to validate Java code against a configured set of rules. 
 
 ### [Source Academy 2021 (Game Component)](https://github.com/source-academy/frontend/pull/1058)
 Source Academy is a gamified online experential learning platform, used to teach introductory programming courses for Computer Science freshmen.
-
-### My GitHub stats
-[![](https://github-readme-stats.vercel.app/api?username=wltan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Year 4 Computer Science undergraduate at the [National University of Singapore](https://www.nus.edu.sg/), graduating in May 2023.
+I recently graduated from the [National University of Singapore](https://www.nus.edu.sg/) in May 2023. Currently working full-time as a software engineer.
 
 I'm comfortable with full-stack development, although I generally prefer backend-related roles.
 
